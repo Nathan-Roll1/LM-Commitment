@@ -71,10 +71,13 @@ The full results from running this code are available in the paper.
 Please cite the CommitmentBank dataset:
 
 ```
-@inproceedings{Marneffe2019TheCA,
-  title = {The CommitmentBank: Investigating projection in naturally occurring discourse},
-  author = {Marie-Catherine de Marneffe and Mandy Simons and Judith Tonhauser},
-  booktitle = {Proceedings of Sinn und Bedeutung 23},
-  year = {2019}
+@inproceedings{de2019commitmentbank,
+  title={The commitmentbank: Investigating projection in naturally occurring discourse},
+  author={De Marneffe, Marie-Catherine and Simons, Mandy and Tonhauser, Judith},
+  booktitle={proceedings of Sinn und Bedeutung},
+  volume={23},
+  number={2},
+  pages={107--124},
+  year={2019}
 }
 ```
