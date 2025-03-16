@@ -16,7 +16,7 @@ The CommitmentBank is a dataset of naturally occurring English sentences paired 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/commitment-issues.git
+   git clone https://github.com/Nathan-Roll1/LM-Commitment.git
    cd commitment-issues
    ```
 
